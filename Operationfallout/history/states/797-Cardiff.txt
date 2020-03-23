@@ -9,7 +9,7 @@ state={
 
 
 	history={
-		owner = ENG
+		owner = LCD
 		victory_points = {
 			6521 50 
 		}
@@ -24,7 +24,7 @@ state={
 			air_base = 6
 
 		}
-		add_core_of = ENG
+		add_core_of = LCD
 
 		1939.1.1 = {
 			buildings = {
